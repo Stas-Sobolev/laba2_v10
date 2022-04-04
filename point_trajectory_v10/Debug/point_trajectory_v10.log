@@ -1,0 +1,6 @@
+﻿  Location.cpp
+  TaskBody.cpp
+  main.cpp
+  Создание кода...
+D:\VisualStudioProject\point_trajectory\point_trajectory_v10\point_trajectory_v10\Location.cpp(93): warning C4715: Location::operator=: значение возвращается не при всех путях выполнения
+  point_trajectory_v10.vcxproj -> D:\VisualStudioProject\point_trajectory\point_trajectory_v10\Debug\point_trajectory_v10.exe
